@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pc-bytn
+- 👋 Hi, I’m @Pc-bytn [Pasindu Charith]
 - 👀 I’m interested in Software Development and Software Engineering
 - 🌱 I’m currently learning Java, SQL, Html...
 - 💞️ I’m looking to collaborate on learning Software Programming, Development, and Engineering.
