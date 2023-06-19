@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Software Engineering
 - 🌱 I’m currently learning Java, SQL, Html...
 - 💞️ I’m looking to collaborate on learning Software Programming, Development, and Engineering.
-- 📫 Follow me on Instagram (https://www.instagram.com/pasinducs/)
+- 📫 Connect me on Linkedin (www.linkedin.com/in/pasindu-charith-sagara0)
 
 <!---
 Pc-bytn/Pc-bytn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
