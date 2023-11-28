@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left"> 📈 My Stats:</h3>
 <div align="center">
-<p><img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pc-bytn&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pc-bytn" /></p>
+<p><img height="175px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pc-bytn&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pc-bytn" /></p>
 
-<p>&nbsp;<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=pc-bytn&show_icons=true&theme=tokyonight&locale=en" alt="pc-bytn" /></p>
+<p>&nbsp;<img height="175px" align="center" src="https://github-readme-stats.vercel.app/api?username=pc-bytn&show_icons=true&theme=tokyonight&locale=en" alt="pc-bytn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pc-bytn&theme=tokyonight" alt="pc-bytn" /></p>
 </div>
