@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <br>
-<h3 align="left"> 🐍 My Contributions Eater 😜:</h3>
+<h3 align="left"> 🐍 My Contributions Stats Eater 😜:</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pc-bytn/pc-bytn/blob/output/github-contribution-grid-snake-dark.svg" />
